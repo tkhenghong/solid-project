@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26143900-951b-400e-bf1c-1edf18c951ff" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2twwSAztSF2sreuhHPbEOGx9aHp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GitHubPublicProjects/tkhenghong/solid-project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (1).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (10).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (11).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (12).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (13).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (14).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (15).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (16).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (2).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (3).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (4).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (5).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (6).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (7).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (8).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install (9).executor&quot;: &quot;Run&quot;,
+    &quot;npm.install.executor&quot;: &quot;Run&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="js.build_tools.npm" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.install (16)">
+    <configuration name="install (10)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-prisma/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (11)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-solid-styled/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (12)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-tailwindcss/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (13)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-tanstack-router/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (14)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-trpc/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (15)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-unocss/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (16)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-vitest/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (1)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-basic/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (2)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-experiments/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (3)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-hackernews/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (4)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-notes/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (5)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-todomvc/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (6)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-auth/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (7)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-authjs/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (8)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-drizzle/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install (9)" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-with-mdx/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="install" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/solid-start/solid-project-bare/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.install" />
+      <item itemvalue="npm.install (1)" />
+      <item itemvalue="npm.install (2)" />
+      <item itemvalue="npm.install (3)" />
+      <item itemvalue="npm.install (4)" />
+      <item itemvalue="npm.install (5)" />
+      <item itemvalue="npm.install (6)" />
+      <item itemvalue="npm.install (7)" />
+      <item itemvalue="npm.install (8)" />
+      <item itemvalue="npm.install (9)" />
+      <item itemvalue="npm.install (10)" />
+      <item itemvalue="npm.install (11)" />
+      <item itemvalue="npm.install (12)" />
+      <item itemvalue="npm.install (13)" />
+      <item itemvalue="npm.install (14)" />
+      <item itemvalue="npm.install (15)" />
+      <item itemvalue="npm.install (16)" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-WS-243.24978.60" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26143900-951b-400e-bf1c-1edf18c951ff" name="Changes" comment="" />
+      <created>1741276442104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741276442104</updated>
+      <workItem from="1741276443248" duration="1120000" />
+      <workItem from="1741278633966" duration="150000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
